@@ -2,7 +2,9 @@
 
 ![Universities and colleges in the continental United States](continentalus.PNG)
 
-Just a little project I've been working on in my spare time of placing the logo of every university and college in the United States on a Google Maps in its respective location.
+[Click here to check out the map.](https://drive.google.com/open?id=15WgOlzIsOt8u-26dHnxlRJVoSOz9kzB-&usp=sharing)
+
+Just a little project I've been working on in my spare time of placing the logo of every university and college in the United States on a Google Maps My Map in its respective location.
 
 I began by scraping the logos from the user flairs on Reddit sports discussion forums. The icons from the college football subreddit are 60x40 pixels while those from the college basketball subreddit are 70x70 pixels. I made the remaining icons myself and sized them to 70x70 since that was easier to work with.
 
