@@ -1,6 +1,6 @@
 # US Universities and Colleges KMZ
 
-!(Universities and colleges in the continental United States)[https://raw.githubusercontent.com/rogxue/college-map-kmz/master/continentalus.PNG]
+!(Universities and colleges in the continental United States)[continentalus.PNG]
 
 Just a little project I've been working on in my spare time of placing the logo of every university and college in the United States on a Google Maps in its respective location.
 
