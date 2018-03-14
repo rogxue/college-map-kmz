@@ -20,15 +20,12 @@ The KML file is an XML file and is pretty straight-forward. Google My Maps are l
 
 These schools are well-documented and straight-forward.
 
-  * [FBS](https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_FBS_football_programs)
-  * [FCS](https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_FCS_football_programs)
+  * [D1 FBS](https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_FBS_football_programs)
+  * [D1 FCS](https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_FCS_football_programs)
   * [D1 BB](https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_men%27s_basketball_programs)
-  * [D2](https://en.wikipedia.org/wiki/List_of_NCAA_Division_II_football_programs)
-  * [D2 BB](https://en.wikipedia.org/wiki/List_of_NCAA_Division_II_institutions)
-  * [D3](https://en.wikipedia.org/wiki/List_of_NCAA_Division_III_football_programs)
-  * [D3 BB](https://en.wikipedia.org/wiki/List_of_NCAA_Division_III_institutions)
-  * [NAIA](https://en.wikipedia.org/wiki/List_of_NAIA_football_programs)
-  * [NAIA BB](https://en.wikipedia.org/wiki/List_of_NAIA_institutions)
+  * [D2](https://en.wikipedia.org/wiki/List_of_NCAA_Division_II_institutions)
+  * [D3](https://en.wikipedia.org/wiki/List_of_NCAA_Division_III_institutions)
+  * [NAIA](https://en.wikipedia.org/wiki/List_of_NAIA_institutions)
 
 ### Part II
 

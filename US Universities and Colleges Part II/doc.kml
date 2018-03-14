@@ -5855,82 +5855,6 @@
         <styleUrl>#icon-ci-237-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-ci-238-nodesc-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-238.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-ci-238-nodesc-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-238.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-ci-238-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-ci-238-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-ci-238-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-ci-239-nodesc-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-239.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-ci-239-nodesc-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-239.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-ci-239-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-ci-239-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-ci-239-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="icon-ci-24-nodesc-normal">
       <IconStyle>
         <scale>1.1</scale>
@@ -5967,310 +5891,6 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-ci-24-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-ci-240-nodesc-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-240.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-ci-240-nodesc-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-240.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-ci-240-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-ci-240-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-ci-240-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-ci-241-nodesc-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-241.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-ci-241-nodesc-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-241.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-ci-241-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-ci-241-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-ci-241-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-ci-242-nodesc-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-242.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-ci-242-nodesc-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-242.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-ci-242-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-ci-242-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-ci-242-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-ci-243-nodesc-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-243.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-ci-243-nodesc-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-243.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-ci-243-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-ci-243-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-ci-243-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-ci-244-nodesc-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-244.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-ci-244-nodesc-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-244.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-ci-244-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-ci-244-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-ci-244-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-ci-245-nodesc-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-245.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-ci-245-nodesc-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-245.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-ci-245-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-ci-245-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-ci-245-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-ci-246-nodesc-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-246.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-ci-246-nodesc-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-246.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-ci-246-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-ci-246-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-ci-246-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-ci-247-nodesc-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-247.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-ci-247-nodesc-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>images/icon-247.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-ci-247-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-ci-247-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-ci-247-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-ci-25-nodesc-normal">
@@ -9464,17 +9084,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Cleary University</name>
-        <styleUrl>#icon-ci-9-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -83.8804328,42.5874302,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Concordia College Alabama</name>
-        <styleUrl>#icon-ci-10-nodesc</styleUrl>
+        <styleUrl>#icon-ci-9-nodesc</styleUrl>
         <Point>
           <coordinates>
             -87.017734,32.425468,0
@@ -9483,7 +9094,7 @@
       </Placemark>
       <Placemark>
         <name>Crown College</name>
-        <styleUrl>#icon-ci-11-nodesc</styleUrl>
+        <styleUrl>#icon-ci-10-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.0292993,36.0231433,0
@@ -9492,7 +9103,7 @@
       </Placemark>
       <Placemark>
         <name>The Culinary Institute of America (CIA)</name>
-        <styleUrl>#icon-ci-12-nodesc</styleUrl>
+        <styleUrl>#icon-ci-11-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.933346,41.745685,0
@@ -9501,7 +9112,7 @@
       </Placemark>
       <Placemark>
         <name>Davis College</name>
-        <styleUrl>#icon-ci-13-nodesc</styleUrl>
+        <styleUrl>#icon-ci-12-nodesc</styleUrl>
         <Point>
           <coordinates>
             -75.9618882,42.1011054,0
@@ -9510,7 +9121,7 @@
       </Placemark>
       <Placemark>
         <name>Five Towns College</name>
-        <styleUrl>#icon-ci-14-nodesc</styleUrl>
+        <styleUrl>#icon-ci-13-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.3688987,40.7950616,0
@@ -9519,7 +9130,7 @@
       </Placemark>
       <Placemark>
         <name>Florida College</name>
-        <styleUrl>#icon-ci-15-nodesc</styleUrl>
+        <styleUrl>#icon-ci-14-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.383495,28.0345593,0
@@ -9528,7 +9139,7 @@
       </Placemark>
       <Placemark>
         <name>Florida National University</name>
-        <styleUrl>#icon-ci-16-nodesc</styleUrl>
+        <styleUrl>#icon-ci-15-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.321731,25.861521,0
@@ -9537,7 +9148,7 @@
       </Placemark>
       <Placemark>
         <name>Hampshire College</name>
-        <styleUrl>#icon-ci-17-nodesc</styleUrl>
+        <styleUrl>#icon-ci-16-nodesc</styleUrl>
         <Point>
           <coordinates>
             -72.5322956,42.325559,0
@@ -9546,7 +9157,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Johnson & Wales University - Charlotte]]></name>
-        <styleUrl>#icon-ci-18-nodesc</styleUrl>
+        <styleUrl>#icon-ci-17-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.850596,35.233273,0
@@ -9555,7 +9166,7 @@
       </Placemark>
       <Placemark>
         <name>Kent State University at Tuscarawas</name>
-        <styleUrl>#icon-ci-19-nodesc</styleUrl>
+        <styleUrl>#icon-ci-18-nodesc</styleUrl>
         <Point>
           <coordinates>
             -81.4064149,40.467462,0
@@ -9564,7 +9175,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[The King's College]]></name>
-        <styleUrl>#icon-ci-20-nodesc</styleUrl>
+        <styleUrl>#icon-ci-19-nodesc</styleUrl>
         <Point>
           <coordinates>
             -74.01234,40.7066799,0
@@ -9573,7 +9184,7 @@
       </Placemark>
       <Placemark>
         <name>University of Maine at Augusta</name>
-        <styleUrl>#icon-ci-21-nodesc</styleUrl>
+        <styleUrl>#icon-ci-20-nodesc</styleUrl>
         <Point>
           <coordinates>
             -69.7993345,44.3370555,0
@@ -9581,17 +9192,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>University of Maine at Fort Kent</name>
-        <styleUrl>#icon-ci-22-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -68.5893022,47.2503932,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>University of Maine at Machias</name>
-        <styleUrl>#icon-ci-23-nodesc</styleUrl>
+        <styleUrl>#icon-ci-21-nodesc</styleUrl>
         <Point>
           <coordinates>
             -67.4570216,44.7096669,0
@@ -9600,7 +9202,7 @@
       </Placemark>
       <Placemark>
         <name>Mid Atlantic Christian University</name>
-        <styleUrl>#icon-ci-24-nodesc</styleUrl>
+        <styleUrl>#icon-ci-22-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.2171,36.3046,0
@@ -9609,7 +9211,7 @@
       </Placemark>
       <Placemark>
         <name>Mississippi University For Women</name>
-        <styleUrl>#icon-ci-25-nodesc</styleUrl>
+        <styleUrl>#icon-ci-23-nodesc</styleUrl>
         <Point>
           <coordinates>
             -88.4187196,33.4947079,0
@@ -9618,7 +9220,7 @@
       </Placemark>
       <Placemark>
         <name>Navajo Technical University</name>
-        <styleUrl>#icon-ci-26-nodesc</styleUrl>
+        <styleUrl>#icon-ci-24-nodesc</styleUrl>
         <Point>
           <coordinates>
             -108.1474931,35.6874308,0
@@ -9627,7 +9229,7 @@
       </Placemark>
       <Placemark>
         <name>Oakwood University</name>
-        <styleUrl>#icon-ci-27-nodesc</styleUrl>
+        <styleUrl>#icon-ci-25-nodesc</styleUrl>
         <Point>
           <coordinates>
             -86.6558345,34.7517708,0
@@ -9636,7 +9238,7 @@
       </Placemark>
       <Placemark>
         <name>Patrick Henry College</name>
-        <styleUrl>#icon-ci-28-nodesc</styleUrl>
+        <styleUrl>#icon-ci-26-nodesc</styleUrl>
         <Point>
           <coordinates>
             -77.6908756,39.1389401,0
@@ -9645,7 +9247,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Paul Smith's College]]></name>
-        <styleUrl>#icon-ci-29-nodesc</styleUrl>
+        <styleUrl>#icon-ci-27-nodesc</styleUrl>
         <Point>
           <coordinates>
             -74.2530505,44.4374506,0
@@ -9654,7 +9256,7 @@
       </Placemark>
       <Placemark>
         <name>University of Pittsburgh at Titusville</name>
-        <styleUrl>#icon-ci-30-nodesc</styleUrl>
+        <styleUrl>#icon-ci-28-nodesc</styleUrl>
         <Point>
           <coordinates>
             -79.6638933,41.6292889,0
@@ -9663,7 +9265,7 @@
       </Placemark>
       <Placemark>
         <name>Pennsylvania State University Beaver Campus</name>
-        <styleUrl>#icon-ci-31-nodesc</styleUrl>
+        <styleUrl>#icon-ci-29-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.2963833,40.6781967,0
@@ -9672,7 +9274,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State Brandywine</name>
-        <styleUrl>#icon-ci-32-nodesc</styleUrl>
+        <styleUrl>#icon-ci-30-nodesc</styleUrl>
         <Point>
           <coordinates>
             -75.4481416,39.9278884,0
@@ -9681,7 +9283,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State DuBois</name>
-        <styleUrl>#icon-ci-33-nodesc</styleUrl>
+        <styleUrl>#icon-ci-31-nodesc</styleUrl>
         <Point>
           <coordinates>
             -78.7511698,41.1272143,0
@@ -9690,7 +9292,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State Fayette, The Eberly Campus</name>
-        <styleUrl>#icon-ci-34-nodesc</styleUrl>
+        <styleUrl>#icon-ci-32-nodesc</styleUrl>
         <Point>
           <coordinates>
             -79.6586188,39.9461131,0
@@ -9699,7 +9301,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State Greater Allegheny</name>
-        <styleUrl>#icon-ci-35-nodesc</styleUrl>
+        <styleUrl>#icon-ci-33-nodesc</styleUrl>
         <Point>
           <coordinates>
             -79.827442,40.3448259,0
@@ -9708,7 +9310,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State Hazleton</name>
-        <styleUrl>#icon-ci-36-nodesc</styleUrl>
+        <styleUrl>#icon-ci-34-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.0290881,40.9839465,0
@@ -9717,7 +9319,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State Lehigh Valley</name>
-        <styleUrl>#icon-ci-37-nodesc</styleUrl>
+        <styleUrl>#icon-ci-35-nodesc</styleUrl>
         <Point>
           <coordinates>
             -75.4027078,40.5591162,0
@@ -9726,7 +9328,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State Mont Alto</name>
-        <styleUrl>#icon-ci-38-nodesc</styleUrl>
+        <styleUrl>#icon-ci-36-nodesc</styleUrl>
         <Point>
           <coordinates>
             -77.5425986,39.8406628,0
@@ -9735,7 +9337,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State New Kensington</name>
-        <styleUrl>#icon-ci-39-nodesc</styleUrl>
+        <styleUrl>#icon-ci-37-nodesc</styleUrl>
         <Point>
           <coordinates>
             -79.6973879,40.5512829,0
@@ -9744,7 +9346,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State Schuylkill</name>
-        <styleUrl>#icon-ci-40-nodesc</styleUrl>
+        <styleUrl>#icon-ci-38-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.167348,40.6393157,0
@@ -9753,7 +9355,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State Wilkes-Barre</name>
-        <styleUrl>#icon-ci-41-nodesc</styleUrl>
+        <styleUrl>#icon-ci-39-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.0121414,41.3080022,0
@@ -9762,7 +9364,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State Scranton</name>
-        <styleUrl>#icon-ci-42-nodesc</styleUrl>
+        <styleUrl>#icon-ci-40-nodesc</styleUrl>
         <Point>
           <coordinates>
             -75.6208369,41.4401197,0
@@ -9771,7 +9373,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State York</name>
-        <styleUrl>#icon-ci-43-nodesc</styleUrl>
+        <styleUrl>#icon-ci-41-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.702947,39.9518241,0
@@ -9780,7 +9382,7 @@
       </Placemark>
       <Placemark>
         <name>Pratt Institute</name>
-        <styleUrl>#icon-ci-44-nodesc</styleUrl>
+        <styleUrl>#icon-ci-42-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.962537,40.6912807,0
@@ -9789,7 +9391,7 @@
       </Placemark>
       <Placemark>
         <name>College of St. Joseph</name>
-        <styleUrl>#icon-ci-45-nodesc</styleUrl>
+        <styleUrl>#icon-ci-43-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.0017844,43.6003659,0
@@ -9798,7 +9400,7 @@
       </Placemark>
       <Placemark>
         <name>Saint Mary-of-the-Woods College</name>
-        <styleUrl>#icon-ci-46-nodesc</styleUrl>
+        <styleUrl>#icon-ci-44-nodesc</styleUrl>
         <Point>
           <coordinates>
             -87.4638447,39.5054546,0
@@ -9806,17 +9408,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Silver Lake College</name>
-        <styleUrl>#icon-ci-47-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -87.7442676,44.0710708,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Southwestern Adventist University</name>
-        <styleUrl>#icon-ci-48-nodesc</styleUrl>
+        <styleUrl>#icon-ci-45-nodesc</styleUrl>
         <Point>
           <coordinates>
             -97.3264832,32.3962581,0
@@ -9824,17 +9417,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>SUNY Delhi</name>
-        <styleUrl>#icon-ci-49-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -74.9241128,42.2704551,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>SUNY College of Environmental Science and Forestry</name>
-        <styleUrl>#icon-ci-50-nodesc</styleUrl>
+        <styleUrl>#icon-ci-46-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.1369148,43.0344612,0
@@ -9843,7 +9427,7 @@
       </Placemark>
       <Placemark>
         <name>Unity College</name>
-        <styleUrl>#icon-ci-51-nodesc</styleUrl>
+        <styleUrl>#icon-ci-47-nodesc</styleUrl>
         <Point>
           <coordinates>
             -69.3341406,44.6032057,0
@@ -9852,7 +9436,7 @@
       </Placemark>
       <Placemark>
         <name>Vaughn College of Aeronautics and Technology</name>
-        <styleUrl>#icon-ci-52-nodesc</styleUrl>
+        <styleUrl>#icon-ci-48-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.881921,40.768034,0
@@ -9861,7 +9445,7 @@
       </Placemark>
       <Placemark>
         <name>Vermont Technical College</name>
-        <styleUrl>#icon-ci-53-nodesc</styleUrl>
+        <styleUrl>#icon-ci-49-nodesc</styleUrl>
         <Point>
           <coordinates>
             -72.604721,43.938717,0
@@ -9870,7 +9454,7 @@
       </Placemark>
       <Placemark>
         <name>Villa Maria College</name>
-        <styleUrl>#icon-ci-54-nodesc</styleUrl>
+        <styleUrl>#icon-ci-50-nodesc</styleUrl>
         <Point>
           <coordinates>
             -78.7973749,42.9127719,0
@@ -9879,7 +9463,7 @@
       </Placemark>
       <Placemark>
         <name>Warren Wilson College</name>
-        <styleUrl>#icon-ci-55-nodesc</styleUrl>
+        <styleUrl>#icon-ci-51-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.442286,35.611133,0
@@ -9888,7 +9472,7 @@
       </Placemark>
       <Placemark>
         <name>Webb Institute</name>
-        <styleUrl>#icon-ci-56-nodesc</styleUrl>
+        <styleUrl>#icon-ci-52-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.6448741,40.8844507,0
@@ -9897,7 +9481,7 @@
       </Placemark>
       <Placemark>
         <name>Wright State University Lake Campus</name>
-        <styleUrl>#icon-ci-57-nodesc</styleUrl>
+        <styleUrl>#icon-ci-53-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.5102022,40.5471196,0
@@ -9906,7 +9490,7 @@
       </Placemark>
       <Placemark>
         <name>Alaska Bible College</name>
-        <styleUrl>#icon-ci-58-nodesc</styleUrl>
+        <styleUrl>#icon-ci-54-nodesc</styleUrl>
         <Point>
           <coordinates>
             -149.1118057,61.5985208,0
@@ -9915,7 +9499,7 @@
       </Placemark>
       <Placemark>
         <name>Alaska Pacific University</name>
-        <styleUrl>#icon-ci-59-nodesc</styleUrl>
+        <styleUrl>#icon-ci-55-nodesc</styleUrl>
         <Point>
           <coordinates>
             -149.8027203,61.1910518,0
@@ -9924,7 +9508,7 @@
       </Placemark>
       <Placemark>
         <name>University of Alaska Southeast</name>
-        <styleUrl>#icon-ci-60-nodesc</styleUrl>
+        <styleUrl>#icon-ci-56-nodesc</styleUrl>
         <Point>
           <coordinates>
             -134.6402829,58.384955,0
@@ -9936,7 +9520,7 @@
       <name>NCCAA</name>
       <Placemark>
         <name>Appalachian Bible College</name>
-        <styleUrl>#icon-ci-61-nodesc</styleUrl>
+        <styleUrl>#icon-ci-57-nodesc</styleUrl>
         <Point>
           <coordinates>
             -81.199135,37.852898,0
@@ -9945,7 +9529,7 @@
       </Placemark>
       <Placemark>
         <name>Arlington Baptist College</name>
-        <styleUrl>#icon-ci-62-nodesc</styleUrl>
+        <styleUrl>#icon-ci-58-nodesc</styleUrl>
         <Point>
           <coordinates>
             -97.1567294,32.7380287,0
@@ -9954,7 +9538,7 @@
       </Placemark>
       <Placemark>
         <name>Baptist Bible College</name>
-        <styleUrl>#icon-ci-63-nodesc</styleUrl>
+        <styleUrl>#icon-ci-59-nodesc</styleUrl>
         <Point>
           <coordinates>
             -93.2853642,37.2397278,0
@@ -9963,7 +9547,7 @@
       </Placemark>
       <Placemark>
         <name>Barclay College</name>
-        <styleUrl>#icon-ci-64-nodesc</styleUrl>
+        <styleUrl>#icon-ci-60-nodesc</styleUrl>
         <Point>
           <coordinates>
             -99.104887,37.620996,0
@@ -9972,7 +9556,7 @@
       </Placemark>
       <Placemark>
         <name>Bethesda University</name>
-        <styleUrl>#icon-ci-65-nodesc</styleUrl>
+        <styleUrl>#icon-ci-61-nodesc</styleUrl>
         <Point>
           <coordinates>
             -117.9413646,33.842355,0
@@ -9981,7 +9565,7 @@
       </Placemark>
       <Placemark>
         <name>Bob Jones University</name>
-        <styleUrl>#icon-ci-66-nodesc</styleUrl>
+        <styleUrl>#icon-ci-62-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.362872,34.872504,0
@@ -9990,7 +9574,7 @@
       </Placemark>
       <Placemark>
         <name>Boyce College</name>
-        <styleUrl>#icon-ci-67-nodesc</styleUrl>
+        <styleUrl>#icon-ci-63-nodesc</styleUrl>
         <Point>
           <coordinates>
             -85.6858714,38.2476449,0
@@ -9999,7 +9583,7 @@
       </Placemark>
       <Placemark>
         <name>Calvary University</name>
-        <styleUrl>#icon-ci-68-nodesc</styleUrl>
+        <styleUrl>#icon-ci-64-nodesc</styleUrl>
         <Point>
           <coordinates>
             -94.5447532,38.8375729,0
@@ -10008,7 +9592,7 @@
       </Placemark>
       <Placemark>
         <name>Carver Bible College</name>
-        <styleUrl>#icon-ci-69-nodesc</styleUrl>
+        <styleUrl>#icon-ci-65-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.5156485,33.7228254,0
@@ -10017,7 +9601,7 @@
       </Placemark>
       <Placemark>
         <name>Central Christian College of the Bible</name>
-        <styleUrl>#icon-ci-70-nodesc</styleUrl>
+        <styleUrl>#icon-ci-66-nodesc</styleUrl>
         <Point>
           <coordinates>
             -92.42759,39.397969,0
@@ -10026,7 +9610,7 @@
       </Placemark>
       <Placemark>
         <name>Columbia International University</name>
-        <styleUrl>#icon-ci-71-nodesc</styleUrl>
+        <styleUrl>#icon-ci-67-nodesc</styleUrl>
         <Point>
           <coordinates>
             -81.0739172,34.0730769,0
@@ -10035,7 +9619,7 @@
       </Placemark>
       <Placemark>
         <name>Dallas Christian College</name>
-        <styleUrl>#icon-ci-72-nodesc</styleUrl>
+        <styleUrl>#icon-ci-68-nodesc</styleUrl>
         <Point>
           <coordinates>
             -96.8875863,32.9137019,0
@@ -10044,7 +9628,7 @@
       </Placemark>
       <Placemark>
         <name>Ecclesia College</name>
-        <styleUrl>#icon-ci-73-nodesc</styleUrl>
+        <styleUrl>#icon-ci-69-nodesc</styleUrl>
         <Point>
           <coordinates>
             -94.2368474,36.214049,0
@@ -10053,7 +9637,7 @@
       </Placemark>
       <Placemark>
         <name>Emmaus Bible College</name>
-        <styleUrl>#icon-ci-74-nodesc</styleUrl>
+        <styleUrl>#icon-ci-70-nodesc</styleUrl>
         <Point>
           <coordinates>
             -90.705783,42.508698,0
@@ -10062,7 +9646,7 @@
       </Placemark>
       <Placemark>
         <name>Faith Baptist Bible College</name>
-        <styleUrl>#icon-ci-75-nodesc</styleUrl>
+        <styleUrl>#icon-ci-71-nodesc</styleUrl>
         <Point>
           <coordinates>
             -93.624298,41.73667,0
@@ -10071,7 +9655,7 @@
       </Placemark>
       <Placemark>
         <name>Grace Bible College</name>
-        <styleUrl>#icon-ci-76-nodesc</styleUrl>
+        <styleUrl>#icon-ci-72-nodesc</styleUrl>
         <Point>
           <coordinates>
             -85.692024,42.919082,0
@@ -10080,7 +9664,7 @@
       </Placemark>
       <Placemark>
         <name>Grace University</name>
-        <styleUrl>#icon-ci-77-nodesc</styleUrl>
+        <styleUrl>#icon-ci-73-nodesc</styleUrl>
         <Point>
           <coordinates>
             -95.9275421,41.246831,0
@@ -10089,7 +9673,7 @@
       </Placemark>
       <Placemark>
         <name>Great Lakes Christian College</name>
-        <styleUrl>#icon-ci-78-nodesc</styleUrl>
+        <styleUrl>#icon-ci-74-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.6385003,42.7543252,0
@@ -10098,7 +9682,7 @@
       </Placemark>
       <Placemark>
         <name>Hiwassee College</name>
-        <styleUrl>#icon-ci-79-nodesc</styleUrl>
+        <styleUrl>#icon-ci-75-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.3653372,35.5585222,0
@@ -10107,7 +9691,7 @@
       </Placemark>
       <Placemark>
         <name>Johnson University Florida</name>
-        <styleUrl>#icon-ci-80-nodesc</styleUrl>
+        <styleUrl>#icon-ci-76-nodesc</styleUrl>
         <Point>
           <coordinates>
             -81.3626275,28.3024838,0
@@ -10116,7 +9700,7 @@
       </Placemark>
       <Placemark>
         <name>Johnson University</name>
-        <styleUrl>#icon-ci-81-nodesc</styleUrl>
+        <styleUrl>#icon-ci-77-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.7504367,35.9362408,0
@@ -10125,7 +9709,7 @@
       </Placemark>
       <Placemark>
         <name>John Wesley College</name>
-        <styleUrl>#icon-ci-82-nodesc</styleUrl>
+        <styleUrl>#icon-ci-78-nodesc</styleUrl>
         <Point>
           <coordinates>
             -79.9998827,35.9934185,0
@@ -10134,7 +9718,7 @@
       </Placemark>
       <Placemark>
         <name>Kansas Christian College</name>
-        <styleUrl>#icon-ci-83-nodesc</styleUrl>
+        <styleUrl>#icon-ci-79-nodesc</styleUrl>
         <Point>
           <coordinates>
             -94.6663949,38.9955981,0
@@ -10142,17 +9726,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Life Pacific College</name>
-        <styleUrl>#icon-ci-84-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -117.8292871,34.0990889,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Manhattan Christian College</name>
-        <styleUrl>#icon-ci-85-nodesc</styleUrl>
+        <styleUrl>#icon-ci-80-nodesc</styleUrl>
         <Point>
           <coordinates>
             -96.5791841,39.1858232,0
@@ -10161,7 +9736,7 @@
       </Placemark>
       <Placemark>
         <name>Moody Bible Institute</name>
-        <styleUrl>#icon-ci-86-nodesc</styleUrl>
+        <styleUrl>#icon-ci-81-nodesc</styleUrl>
         <Point>
           <coordinates>
             -87.6330189,41.8973004,0
@@ -10170,7 +9745,7 @@
       </Placemark>
       <Placemark>
         <name>Nebraska Christian College</name>
-        <styleUrl>#icon-ci-87-nodesc</styleUrl>
+        <styleUrl>#icon-ci-82-nodesc</styleUrl>
         <Point>
           <coordinates>
             -96.094447,41.121744,0
@@ -10179,7 +9754,7 @@
       </Placemark>
       <Placemark>
         <name>New Hope Christian College</name>
-        <styleUrl>#icon-ci-88-nodesc</styleUrl>
+        <styleUrl>#icon-ci-83-nodesc</styleUrl>
         <Point>
           <coordinates>
             -123.1524596,44.0329337,0
@@ -10188,7 +9763,7 @@
       </Placemark>
       <Placemark>
         <name>Oak Hills Christian College</name>
-        <styleUrl>#icon-ci-89-nodesc</styleUrl>
+        <styleUrl>#icon-ci-84-nodesc</styleUrl>
         <Point>
           <coordinates>
             -94.9018774,47.4241899,0
@@ -10197,7 +9772,7 @@
       </Placemark>
       <Placemark>
         <name>Ozark Christian College</name>
-        <styleUrl>#icon-ci-90-nodesc</styleUrl>
+        <styleUrl>#icon-ci-85-nodesc</styleUrl>
         <Point>
           <coordinates>
             -94.5102892,37.1040654,0
@@ -10206,7 +9781,7 @@
       </Placemark>
       <Placemark>
         <name>Pensacola Christian College</name>
-        <styleUrl>#icon-ci-91-nodesc</styleUrl>
+        <styleUrl>#icon-ci-86-nodesc</styleUrl>
         <Point>
           <coordinates>
             -87.2345137,30.4708067,0
@@ -10215,7 +9790,7 @@
       </Placemark>
       <Placemark>
         <name>Piedmont International University</name>
-        <styleUrl>#icon-ci-92-nodesc</styleUrl>
+        <styleUrl>#icon-ci-87-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.2501271,36.0879488,0
@@ -10224,7 +9799,7 @@
       </Placemark>
       <Placemark>
         <name>Portland Bible College</name>
-        <styleUrl>#icon-ci-93-nodesc</styleUrl>
+        <styleUrl>#icon-ci-88-nodesc</styleUrl>
         <Point>
           <coordinates>
             -122.5653004,45.5493096,0
@@ -10232,17 +9807,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Providence Christian College</name>
-        <styleUrl>#icon-ci-94-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -118.1187737,34.172453,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name><![CDATA[Providence University College & Theological Seminary]]></name>
-        <styleUrl>#icon-ci-95-nodesc</styleUrl>
+        <styleUrl>#icon-ci-89-nodesc</styleUrl>
         <Point>
           <coordinates>
             -97.0456088,49.5020078,0
@@ -10251,7 +9817,7 @@
       </Placemark>
       <Placemark>
         <name>Randall University</name>
-        <styleUrl>#icon-ci-96-nodesc</styleUrl>
+        <styleUrl>#icon-ci-90-nodesc</styleUrl>
         <Point>
           <coordinates>
             -97.491047,35.300769,0
@@ -10260,7 +9826,7 @@
       </Placemark>
       <Placemark>
         <name>Regent University</name>
-        <styleUrl>#icon-ci-97-nodesc</styleUrl>
+        <styleUrl>#icon-ci-91-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.1922416,36.801329,0
@@ -10269,7 +9835,7 @@
       </Placemark>
       <Placemark>
         <name>Shepherd University LA</name>
-        <styleUrl>#icon-ci-98-nodesc</styleUrl>
+        <styleUrl>#icon-ci-92-nodesc</styleUrl>
         <Point>
           <coordinates>
             -118.248968,34.1164004,0
@@ -10278,7 +9844,7 @@
       </Placemark>
       <Placemark>
         <name>Simmons College</name>
-        <styleUrl>#icon-ci-99-nodesc</styleUrl>
+        <styleUrl>#icon-ci-93-nodesc</styleUrl>
         <Point>
           <coordinates>
             -85.7648298,38.2394955,0
@@ -10287,7 +9853,7 @@
       </Placemark>
       <Placemark>
         <name>The University of Saint Katherine</name>
-        <styleUrl>#icon-ci-100-nodesc</styleUrl>
+        <styleUrl>#icon-ci-94-nodesc</styleUrl>
         <Point>
           <coordinates>
             -117.196573,33.15126,0
@@ -10296,7 +9862,7 @@
       </Placemark>
       <Placemark>
         <name>Toccoa Falls College</name>
-        <styleUrl>#icon-ci-101-nodesc</styleUrl>
+        <styleUrl>#icon-ci-95-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.3562681,34.5943591,0
@@ -10305,7 +9871,7 @@
       </Placemark>
       <Placemark>
         <name>Trinity Baptist College</name>
-        <styleUrl>#icon-ci-102-nodesc</styleUrl>
+        <styleUrl>#icon-ci-96-nodesc</styleUrl>
         <Point>
           <coordinates>
             -81.7964312,30.3070492,0
@@ -10314,7 +9880,7 @@
       </Placemark>
       <Placemark>
         <name>Trinity Bible College and Graduate School</name>
-        <styleUrl>#icon-ci-103-nodesc</styleUrl>
+        <styleUrl>#icon-ci-97-nodesc</styleUrl>
         <Point>
           <coordinates>
             -98.5182677,46.0005465,0
@@ -10323,7 +9889,7 @@
       </Placemark>
       <Placemark>
         <name>Trinity College of Florida</name>
-        <styleUrl>#icon-ci-104-nodesc</styleUrl>
+        <styleUrl>#icon-ci-98-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.6783121,28.1947855,0
@@ -10332,7 +9898,7 @@
       </Placemark>
       <Placemark>
         <name>Virginia University-Lynchburg</name>
-        <styleUrl>#icon-ci-105-nodesc</styleUrl>
+        <styleUrl>#icon-ci-99-nodesc</styleUrl>
         <Point>
           <coordinates>
             -79.1515722,37.3952218,0
@@ -10341,7 +9907,7 @@
       </Placemark>
       <Placemark>
         <name>Welch College</name>
-        <styleUrl>#icon-ci-106-nodesc</styleUrl>
+        <styleUrl>#icon-ci-100-nodesc</styleUrl>
         <Point>
           <coordinates>
             -86.5494262,36.3674857,0
@@ -10350,7 +9916,7 @@
       </Placemark>
       <Placemark>
         <name>West Coast Baptist College</name>
-        <styleUrl>#icon-ci-107-nodesc</styleUrl>
+        <styleUrl>#icon-ci-101-nodesc</styleUrl>
         <Point>
           <coordinates>
             -118.0576638,34.6953814,0
@@ -10359,7 +9925,7 @@
       </Placemark>
       <Placemark>
         <name>Yellowstone Christian College</name>
-        <styleUrl>#icon-ci-108-nodesc</styleUrl>
+        <styleUrl>#icon-ci-102-nodesc</styleUrl>
         <Point>
           <coordinates>
             -108.6168418,45.7422759,0
@@ -10371,7 +9937,7 @@
       <name>ACCA</name>
       <Placemark>
         <name>Association Free Lutheran Bible School</name>
-        <styleUrl>#icon-ci-109-nodesc</styleUrl>
+        <styleUrl>#icon-ci-103-nodesc</styleUrl>
         <Point>
           <coordinates>
             -93.414221,45.015078,0
@@ -10380,7 +9946,7 @@
       </Placemark>
       <Placemark>
         <name>Carolina Christian College</name>
-        <styleUrl>#icon-ci-110-nodesc</styleUrl>
+        <styleUrl>#icon-ci-104-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.256248,36.146124,0
@@ -10389,7 +9955,7 @@
       </Placemark>
       <Placemark>
         <name>Champion Christian College</name>
-        <styleUrl>#icon-ci-111-nodesc</styleUrl>
+        <styleUrl>#icon-ci-105-nodesc</styleUrl>
         <Point>
           <coordinates>
             -93.0656968,34.5002576,0
@@ -10398,7 +9964,7 @@
       </Placemark>
       <Placemark>
         <name>Rhema Bible College</name>
-        <styleUrl>#icon-ci-112-nodesc</styleUrl>
+        <styleUrl>#icon-ci-106-nodesc</styleUrl>
         <Point>
           <coordinates>
             -95.7813034,36.0521436,0
@@ -10407,7 +9973,7 @@
       </Placemark>
       <Placemark>
         <name>St. Louis Christian College</name>
-        <styleUrl>#icon-ci-113-nodesc</styleUrl>
+        <styleUrl>#icon-ci-107-nodesc</styleUrl>
         <Point>
           <coordinates>
             -90.2946942,38.7755442,0
@@ -10419,7 +9985,7 @@
       <name>Ohio (ORCC and OCAC)</name>
       <Placemark>
         <name>Wayne College</name>
-        <styleUrl>#icon-ci-114-nodesc</styleUrl>
+        <styleUrl>#icon-ci-108-nodesc</styleUrl>
         <Point>
           <coordinates>
             -81.7900566,40.861407,0
@@ -10428,7 +9994,7 @@
       </Placemark>
       <Placemark>
         <name>Miami University Hamilton</name>
-        <styleUrl>#icon-ci-115-nodesc</styleUrl>
+        <styleUrl>#icon-ci-109-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.5630121,39.377788,0
@@ -10437,7 +10003,7 @@
       </Placemark>
       <Placemark>
         <name>Miami University Middletown Campus</name>
-        <styleUrl>#icon-ci-116-nodesc</styleUrl>
+        <styleUrl>#icon-ci-110-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.3574911,39.5248195,0
@@ -10446,7 +10012,7 @@
       </Placemark>
       <Placemark>
         <name>The Ohio State University at Lima</name>
-        <styleUrl>#icon-ci-117-nodesc</styleUrl>
+        <styleUrl>#icon-ci-111-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.0283463,40.7372754,0
@@ -10455,7 +10021,7 @@
       </Placemark>
       <Placemark>
         <name>The Ohio State University at Mansfield</name>
-        <styleUrl>#icon-ci-118-nodesc</styleUrl>
+        <styleUrl>#icon-ci-112-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.5779306,40.7988911,0
@@ -10464,7 +10030,7 @@
       </Placemark>
       <Placemark>
         <name>The Ohio State University at Newark</name>
-        <styleUrl>#icon-ci-119-nodesc</styleUrl>
+        <styleUrl>#icon-ci-113-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.44688,40.068706,0
@@ -10473,7 +10039,7 @@
       </Placemark>
       <Placemark>
         <name>Ohio University (Chillicothe Branch)</name>
-        <styleUrl>#icon-ci-120-nodesc</styleUrl>
+        <styleUrl>#icon-ci-114-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.0019766,39.3293567,0
@@ -10482,7 +10048,7 @@
       </Placemark>
       <Placemark>
         <name>Ohio University Eastern Campus</name>
-        <styleUrl>#icon-ci-121-nodesc</styleUrl>
+        <styleUrl>#icon-ci-115-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.9753648,40.0735781,0
@@ -10491,7 +10057,7 @@
       </Placemark>
       <Placemark>
         <name>Ohio University Lancaster Campus</name>
-        <styleUrl>#icon-ci-121-nodesc</styleUrl>
+        <styleUrl>#icon-ci-115-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.5863511,39.738496,0
@@ -10500,7 +10066,7 @@
       </Placemark>
       <Placemark>
         <name>Ohio University Zanesville</name>
-        <styleUrl>#icon-ci-121-nodesc</styleUrl>
+        <styleUrl>#icon-ci-115-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.0304975,39.9607141,0
@@ -10509,7 +10075,7 @@
       </Placemark>
       <Placemark>
         <name>Ohio Midwestern University</name>
-        <styleUrl>#icon-ci-122-nodesc</styleUrl>
+        <styleUrl>#icon-ci-116-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.4454854,39.2895004,0
@@ -10518,7 +10084,7 @@
       </Placemark>
       <Placemark>
         <name>The Ohio State University at Marion</name>
-        <styleUrl>#icon-ci-123-nodesc</styleUrl>
+        <styleUrl>#icon-ci-117-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.0915087,40.5803706,0
@@ -10527,7 +10093,7 @@
       </Placemark>
       <Placemark>
         <name>Valor Christian College</name>
-        <styleUrl>#icon-ci-124-nodesc</styleUrl>
+        <styleUrl>#icon-ci-118-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.8297042,39.8915546,0
@@ -10539,7 +10105,7 @@
       <name>Unaffiliated</name>
       <Placemark>
         <name>Amridge University</name>
-        <styleUrl>#icon-ci-125-nodesc</styleUrl>
+        <styleUrl>#icon-ci-119-nodesc</styleUrl>
         <Point>
           <coordinates>
             -86.1738249,32.3626131,0
@@ -10548,7 +10114,7 @@
       </Placemark>
       <Placemark>
         <name>Athens State University</name>
-        <styleUrl>#icon-ci-126-nodesc</styleUrl>
+        <styleUrl>#icon-ci-120-nodesc</styleUrl>
         <Point>
           <coordinates>
             -86.9650947,34.8054077,0
@@ -10557,7 +10123,7 @@
       </Placemark>
       <Placemark>
         <name>Heritage Christian University</name>
-        <styleUrl>#icon-ci-127-nodesc</styleUrl>
+        <styleUrl>#icon-ci-121-nodesc</styleUrl>
         <Point>
           <coordinates>
             -87.6629749,34.8561377,0
@@ -10566,7 +10132,7 @@
       </Placemark>
       <Placemark>
         <name>Huntsville Bible College</name>
-        <styleUrl>#icon-ci-128-nodesc</styleUrl>
+        <styleUrl>#icon-ci-122-nodesc</styleUrl>
         <Point>
           <coordinates>
             -86.594623,34.750345,0
@@ -10575,7 +10141,7 @@
       </Placemark>
       <Placemark>
         <name>Selma University</name>
-        <styleUrl>#icon-ci-129-nodesc</styleUrl>
+        <styleUrl>#icon-ci-123-nodesc</styleUrl>
         <Point>
           <coordinates>
             -87.0348999,32.4204999,0
@@ -10584,7 +10150,7 @@
       </Placemark>
       <Placemark>
         <name>Prescott College</name>
-        <styleUrl>#icon-ci-130-nodesc</styleUrl>
+        <styleUrl>#icon-ci-124-nodesc</styleUrl>
         <Point>
           <coordinates>
             -112.4765736,34.544785,0
@@ -10593,7 +10159,7 @@
       </Placemark>
       <Placemark>
         <name>Southwest University of Visual Arts</name>
-        <styleUrl>#icon-ci-131-nodesc</styleUrl>
+        <styleUrl>#icon-ci-125-nodesc</styleUrl>
         <Point>
           <coordinates>
             -110.9270913,32.2528178,0
@@ -10602,7 +10168,7 @@
       </Placemark>
       <Placemark>
         <name>American Jewish University</name>
-        <styleUrl>#icon-ci-132-nodesc</styleUrl>
+        <styleUrl>#icon-ci-126-nodesc</styleUrl>
         <Point>
           <coordinates>
             -118.4725275,34.1263884,0
@@ -10611,7 +10177,7 @@
       </Placemark>
       <Placemark>
         <name>Antioch University</name>
-        <styleUrl>#icon-ci-133-nodesc</styleUrl>
+        <styleUrl>#icon-ci-127-nodesc</styleUrl>
         <Point>
           <coordinates>
             -118.3845397,33.9885584,0
@@ -10620,7 +10186,7 @@
       </Placemark>
       <Placemark>
         <name>Cogswell Polytechnical College</name>
-        <styleUrl>#icon-ci-134-nodesc</styleUrl>
+        <styleUrl>#icon-ci-128-nodesc</styleUrl>
         <Point>
           <coordinates>
             -121.9408736,37.4140439,0
@@ -10629,7 +10195,7 @@
       </Placemark>
       <Placemark>
         <name>California State University Channel Islands</name>
-        <styleUrl>#icon-ci-135-nodesc</styleUrl>
+        <styleUrl>#icon-ci-129-nodesc</styleUrl>
         <Point>
           <coordinates>
             -119.0434218,34.1620531,0
@@ -10638,7 +10204,7 @@
       </Placemark>
       <Placemark>
         <name>Epic Bible College and Graduate School</name>
-        <styleUrl>#icon-ci-136-nodesc</styleUrl>
+        <styleUrl>#icon-ci-130-nodesc</styleUrl>
         <Point>
           <coordinates>
             -121.3625795,38.6451516,0
@@ -10647,7 +10213,7 @@
       </Placemark>
       <Placemark>
         <name>Golden Gate University</name>
-        <styleUrl>#icon-ci-137-nodesc</styleUrl>
+        <styleUrl>#icon-ci-131-nodesc</styleUrl>
         <Point>
           <coordinates>
             -122.398982,37.789292,0
@@ -10656,7 +10222,7 @@
       </Placemark>
       <Placemark>
         <name>Humphreys University</name>
-        <styleUrl>#icon-ci-138-nodesc</styleUrl>
+        <styleUrl>#icon-ci-132-nodesc</styleUrl>
         <Point>
           <coordinates>
             -121.316155,38.010932,0
@@ -10665,7 +10231,7 @@
       </Placemark>
       <Placemark>
         <name>Imago Dei College</name>
-        <styleUrl>#icon-ci-139-nodesc</styleUrl>
+        <styleUrl>#icon-ci-133-nodesc</styleUrl>
         <Point>
           <coordinates>
             -117.000285,34.10054,0
@@ -10674,7 +10240,7 @@
       </Placemark>
       <Placemark>
         <name>John Paul the Great Catholic University</name>
-        <styleUrl>#icon-ci-140-nodesc</styleUrl>
+        <styleUrl>#icon-ci-134-nodesc</styleUrl>
         <Point>
           <coordinates>
             -117.0823893,33.1208188,0
@@ -10683,7 +10249,7 @@
       </Placemark>
       <Placemark>
         <name>Lincoln University</name>
-        <styleUrl>#icon-ci-141-nodesc</styleUrl>
+        <styleUrl>#icon-ci-135-nodesc</styleUrl>
         <Point>
           <coordinates>
             -122.269669,37.804726,0
@@ -10692,7 +10258,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Mount Saint Mary's University, Los Angeles]]></name>
-        <styleUrl>#icon-ci-142-nodesc</styleUrl>
+        <styleUrl>#icon-ci-136-nodesc</styleUrl>
         <Point>
           <coordinates>
             -118.4823817,34.085238,0
@@ -10701,7 +10267,7 @@
       </Placemark>
       <Placemark>
         <name>The National Hispanic University</name>
-        <styleUrl>#icon-ci-143-nodesc</styleUrl>
+        <styleUrl>#icon-ci-137-nodesc</styleUrl>
         <Point>
           <coordinates>
             -121.8161362,37.3590308,0
@@ -10710,7 +10276,7 @@
       </Placemark>
       <Placemark>
         <name>National University</name>
-        <styleUrl>#icon-ci-144-nodesc</styleUrl>
+        <styleUrl>#icon-ci-138-nodesc</styleUrl>
         <Point>
           <coordinates>
             -117.1272507,32.8294811,0
@@ -10718,17 +10284,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Soka University of America</name>
-        <styleUrl>#icon-ci-145-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -117.7353296,33.5548343,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Thomas Aquinas College</name>
-        <styleUrl>#icon-ci-146-nodesc</styleUrl>
+        <styleUrl>#icon-ci-139-nodesc</styleUrl>
         <Point>
           <coordinates>
             -119.0887955,34.4293241,0
@@ -10737,7 +10294,7 @@
       </Placemark>
       <Placemark>
         <name>University of the West</name>
-        <styleUrl>#icon-ci-147-nodesc</styleUrl>
+        <styleUrl>#icon-ci-140-nodesc</styleUrl>
         <Point>
           <coordinates>
             -118.082892,34.045475,0
@@ -10746,7 +10303,7 @@
       </Placemark>
       <Placemark>
         <name>Woodbury University</name>
-        <styleUrl>#icon-ci-148-nodesc</styleUrl>
+        <styleUrl>#icon-ci-141-nodesc</styleUrl>
         <Point>
           <coordinates>
             -118.3415134,34.2084733,0
@@ -10755,7 +10312,7 @@
       </Placemark>
       <Placemark>
         <name>Zaytuna College</name>
-        <styleUrl>#icon-ci-149-nodesc</styleUrl>
+        <styleUrl>#icon-ci-142-nodesc</styleUrl>
         <Point>
           <coordinates>
             -122.2626041,37.8764932,0
@@ -10764,7 +10321,7 @@
       </Placemark>
       <Placemark>
         <name>University of Colorado Denver</name>
-        <styleUrl>#icon-ci-150-nodesc</styleUrl>
+        <styleUrl>#icon-ci-143-nodesc</styleUrl>
         <Point>
           <coordinates>
             -105.0023325,39.7463895,0
@@ -10773,7 +10330,7 @@
       </Placemark>
       <Placemark>
         <name>Naropa University</name>
-        <styleUrl>#icon-ci-151-nodesc</styleUrl>
+        <styleUrl>#icon-ci-144-nodesc</styleUrl>
         <Point>
           <coordinates>
             -105.2673905,40.0141679,0
@@ -10782,7 +10339,7 @@
       </Placemark>
       <Placemark>
         <name>Nazarene Bible College</name>
-        <styleUrl>#icon-ci-152-nodesc</styleUrl>
+        <styleUrl>#icon-ci-145-nodesc</styleUrl>
         <Point>
           <coordinates>
             -104.751164,38.8147865,0
@@ -10791,7 +10348,7 @@
       </Placemark>
       <Placemark>
         <name>Goodwin College</name>
-        <styleUrl>#icon-ci-153-nodesc</styleUrl>
+        <styleUrl>#icon-ci-146-nodesc</styleUrl>
         <Point>
           <coordinates>
             -72.6404704,41.7428246,0
@@ -10800,7 +10357,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Holy Apostles Clg & Seminary]]></name>
-        <styleUrl>#icon-ci-154-nodesc</styleUrl>
+        <styleUrl>#icon-ci-147-nodesc</styleUrl>
         <Point>
           <coordinates>
             -72.6483784,41.6080992,0
@@ -10809,7 +10366,7 @@
       </Placemark>
       <Placemark>
         <name>Florida Polytechnic University</name>
-        <styleUrl>#icon-ci-155-nodesc</styleUrl>
+        <styleUrl>#icon-ci-148-nodesc</styleUrl>
         <Point>
           <coordinates>
             -81.848148,28.1488311,0
@@ -10818,7 +10375,7 @@
       </Placemark>
       <Placemark>
         <name>New College of Florida</name>
-        <styleUrl>#icon-ci-156-nodesc</styleUrl>
+        <styleUrl>#icon-ci-149-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.558703,27.384828,0
@@ -10827,7 +10384,7 @@
       </Placemark>
       <Placemark>
         <name>The Baptist College of Florida</name>
-        <styleUrl>#icon-ci-157-nodesc</styleUrl>
+        <styleUrl>#icon-ci-150-nodesc</styleUrl>
         <Point>
           <coordinates>
             -85.5046179,30.9626164,0
@@ -10836,7 +10393,7 @@
       </Placemark>
       <Placemark>
         <name>Gordon-Conwell Theological Seminary</name>
-        <styleUrl>#icon-ci-158-nodesc</styleUrl>
+        <styleUrl>#icon-ci-151-nodesc</styleUrl>
         <Point>
           <coordinates>
             -81.5958833,30.2415867,0
@@ -10845,7 +10402,7 @@
       </Placemark>
       <Placemark>
         <name>Hobe Sound Bible College</name>
-        <styleUrl>#icon-ci-159-nodesc</styleUrl>
+        <styleUrl>#icon-ci-152-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.1320595,27.0661949,0
@@ -10854,7 +10411,7 @@
       </Placemark>
       <Placemark>
         <name>Okan International University</name>
-        <styleUrl>#icon-ci-160-nodesc</styleUrl>
+        <styleUrl>#icon-ci-153-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.1394472,26.0529536,0
@@ -10863,7 +10420,7 @@
       </Placemark>
       <Placemark>
         <name>St. John Vianney College Seminary</name>
-        <styleUrl>#icon-ci-161-nodesc</styleUrl>
+        <styleUrl>#icon-ci-154-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.3387378,25.7430424,0
@@ -10872,7 +10429,7 @@
       </Placemark>
       <Placemark>
         <name>Bainbridge State College</name>
-        <styleUrl>#icon-ci-162-nodesc</styleUrl>
+        <styleUrl>#icon-ci-155-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.533797,30.902292,0
@@ -10881,7 +10438,7 @@
       </Placemark>
       <Placemark>
         <name>Christian College of Georgia</name>
-        <styleUrl>#icon-ci-163-nodesc</styleUrl>
+        <styleUrl>#icon-ci-156-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.379398,33.9564495,0
@@ -10889,17 +10446,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Georgia Gwinnett College</name>
-        <styleUrl>#icon-ci-164-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -84.0054164,33.97908,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name><![CDATA[Luther Rice College & Seminary]]></name>
-        <styleUrl>#icon-ci-165-nodesc</styleUrl>
+        <styleUrl>#icon-ci-157-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.1231051,33.6979186,0
@@ -10907,26 +10455,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>SCAD Atlanta</name>
-        <styleUrl>#icon-ci-166-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -84.3909064,33.7969466,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>The Savannah College of Art and Design</name>
-        <styleUrl>#icon-ci-166-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -81.0940516,32.0729232,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Spelman College</name>
-        <styleUrl>#icon-ci-167-nodesc</styleUrl>
+        <styleUrl>#icon-ci-158-nodesc</styleUrl>
         <Point>
           <coordinates>
             -84.4122934,33.7463597,0
@@ -10935,7 +10465,7 @@
       </Placemark>
       <Placemark>
         <name>Brigham Young University Hawaii</name>
-        <styleUrl>#icon-ci-168-nodesc</styleUrl>
+        <styleUrl>#icon-ci-159-nodesc</styleUrl>
         <Point>
           <coordinates>
             -157.925331,21.6420138,0
@@ -10944,7 +10474,7 @@
       </Placemark>
       <Placemark>
         <name>University of Hawaii Maui College</name>
-        <styleUrl>#icon-ci-169-nodesc</styleUrl>
+        <styleUrl>#icon-ci-160-nodesc</styleUrl>
         <Point>
           <coordinates>
             -156.479464,20.8903761,0
@@ -10953,7 +10483,7 @@
       </Placemark>
       <Placemark>
         <name>University of Hawai‘i - West O‘ahu</name>
-        <styleUrl>#icon-ci-170-nodesc</styleUrl>
+        <styleUrl>#icon-ci-161-nodesc</styleUrl>
         <Point>
           <coordinates>
             -158.056065,21.355188,0
@@ -10962,7 +10492,7 @@
       </Placemark>
       <Placemark>
         <name>Boise Bible College</name>
-        <styleUrl>#icon-ci-171-nodesc</styleUrl>
+        <styleUrl>#icon-ci-162-nodesc</styleUrl>
         <Point>
           <coordinates>
             -116.2913775,43.6581815,0
@@ -10971,7 +10501,7 @@
       </Placemark>
       <Placemark>
         <name>Brigham Young University-Idaho</name>
-        <styleUrl>#icon-ci-172-nodesc</styleUrl>
+        <styleUrl>#icon-ci-163-nodesc</styleUrl>
         <Point>
           <coordinates>
             -111.7833857,43.8144635,0
@@ -10980,7 +10510,7 @@
       </Placemark>
       <Placemark>
         <name>East-West University</name>
-        <styleUrl>#icon-ci-173-nodesc</styleUrl>
+        <styleUrl>#icon-ci-164-nodesc</styleUrl>
         <Point>
           <coordinates>
             -87.624743,41.871281,0
@@ -10989,7 +10519,7 @@
       </Placemark>
       <Placemark>
         <name>NEIU</name>
-        <styleUrl>#icon-ci-174-nodesc</styleUrl>
+        <styleUrl>#icon-ci-165-nodesc</styleUrl>
         <Point>
           <coordinates>
             -87.7182002,41.9805024,0
@@ -10998,7 +10528,7 @@
       </Placemark>
       <Placemark>
         <name>Martin University</name>
-        <styleUrl>#icon-ci-175-nodesc</styleUrl>
+        <styleUrl>#icon-ci-166-nodesc</styleUrl>
         <Point>
           <coordinates>
             -86.1042587,39.798375,0
@@ -11007,7 +10537,7 @@
       </Placemark>
       <Placemark>
         <name>Divine Word College</name>
-        <styleUrl>#icon-ci-176-nodesc</styleUrl>
+        <styleUrl>#icon-ci-167-nodesc</styleUrl>
         <Point>
           <coordinates>
             -90.9354909,42.44287,0
@@ -11016,7 +10546,7 @@
       </Placemark>
       <Placemark>
         <name>University of Holy Cross</name>
-        <styleUrl>#icon-ci-177-nodesc</styleUrl>
+        <styleUrl>#icon-ci-168-nodesc</styleUrl>
         <Point>
           <coordinates>
             -89.994952,29.9120747,0
@@ -11025,7 +10555,7 @@
       </Placemark>
       <Placemark>
         <name>College of the Atlantic</name>
-        <styleUrl>#icon-ci-178-nodesc</styleUrl>
+        <styleUrl>#icon-ci-169-nodesc</styleUrl>
         <Point>
           <coordinates>
             -68.2225669,44.394424,0
@@ -11034,7 +10564,7 @@
       </Placemark>
       <Placemark>
         <name>University of Baltimore</name>
-        <styleUrl>#icon-ci-179-nodesc</styleUrl>
+        <styleUrl>#icon-ci-170-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.6171418,39.3055605,0
@@ -11043,7 +10573,7 @@
       </Placemark>
       <Placemark>
         <name>Capitol Technology University</name>
-        <styleUrl>#icon-ci-180-nodesc</styleUrl>
+        <styleUrl>#icon-ci-171-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.8503664,39.0468887,0
@@ -11052,7 +10582,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[St. John's College]]></name>
-        <styleUrl>#icon-ci-181-nodesc</styleUrl>
+        <styleUrl>#icon-ci-172-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.491536,38.981963,0
@@ -11061,7 +10591,7 @@
       </Placemark>
       <Placemark>
         <name>University of Maryland, Baltimore</name>
-        <styleUrl>#icon-ci-182-nodesc</styleUrl>
+        <styleUrl>#icon-ci-173-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.6249759,39.2892131,0
@@ -11070,7 +10600,7 @@
       </Placemark>
       <Placemark>
         <name>Atlantic Union College</name>
-        <styleUrl>#icon-ci-183-nodesc</styleUrl>
+        <styleUrl>#icon-ci-174-nodesc</styleUrl>
         <Point>
           <coordinates>
             -71.684493,42.445168,0
@@ -11079,7 +10609,7 @@
       </Placemark>
       <Placemark>
         <name>Berklee College of Music</name>
-        <styleUrl>#icon-ci-184-nodesc</styleUrl>
+        <styleUrl>#icon-ci-175-nodesc</styleUrl>
         <Point>
           <coordinates>
             -71.0895292,42.3465952,0
@@ -11088,7 +10618,7 @@
       </Placemark>
       <Placemark>
         <name>Cambridge College</name>
-        <styleUrl>#icon-ci-185-nodesc</styleUrl>
+        <styleUrl>#icon-ci-176-nodesc</styleUrl>
         <Point>
           <coordinates>
             -71.072958,42.381068,0
@@ -11097,7 +10627,7 @@
       </Placemark>
       <Placemark>
         <name>Franklin W. Olin College of Engineering</name>
-        <styleUrl>#icon-ci-186-nodesc</styleUrl>
+        <styleUrl>#icon-ci-177-nodesc</styleUrl>
         <Point>
           <coordinates>
             -71.2636653,42.2931671,0
@@ -11106,7 +10636,7 @@
       </Placemark>
       <Placemark>
         <name>William James College</name>
-        <styleUrl>#icon-ci-187-nodesc</styleUrl>
+        <styleUrl>#icon-ci-178-nodesc</styleUrl>
         <Point>
           <coordinates>
             -71.2032348,42.2949927,0
@@ -11115,7 +10645,7 @@
       </Placemark>
       <Placemark>
         <name>Baker College</name>
-        <styleUrl>#icon-ci-188-nodesc</styleUrl>
+        <styleUrl>#icon-ci-179-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.6961214,42.9754572,0
@@ -11124,7 +10654,7 @@
       </Placemark>
       <Placemark>
         <name>College For Creative Studies</name>
-        <styleUrl>#icon-ci-189-nodesc</styleUrl>
+        <styleUrl>#icon-ci-180-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.0627864,42.3613975,0
@@ -11133,7 +10663,7 @@
       </Placemark>
       <Placemark>
         <name>Kettering University</name>
-        <styleUrl>#icon-ci-190-nodesc</styleUrl>
+        <styleUrl>#icon-ci-181-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.7138531,43.0115468,0
@@ -11142,7 +10672,7 @@
       </Placemark>
       <Placemark>
         <name>Kuyper College</name>
-        <styleUrl>#icon-ci-191-nodesc</styleUrl>
+        <styleUrl>#icon-ci-182-nodesc</styleUrl>
         <Point>
           <coordinates>
             -85.5920919,43.0224079,0
@@ -11151,7 +10681,7 @@
       </Placemark>
       <Placemark>
         <name>University of Michigan-Flint</name>
-        <styleUrl>#icon-ci-192-nodesc</styleUrl>
+        <styleUrl>#icon-ci-183-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.6894611,43.0194791,0
@@ -11160,7 +10690,7 @@
       </Placemark>
       <Placemark>
         <name>Walsh College</name>
-        <styleUrl>#icon-ci-193-nodesc</styleUrl>
+        <styleUrl>#icon-ci-184-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.1471631,42.5738914,0
@@ -11169,7 +10699,7 @@
       </Placemark>
       <Placemark>
         <name>St Catharine College</name>
-        <styleUrl>#icon-ci-194-nodesc</styleUrl>
+        <styleUrl>#icon-ci-185-nodesc</styleUrl>
         <Point>
           <coordinates>
             -85.2625455,37.7092007,0
@@ -11178,7 +10708,7 @@
       </Placemark>
       <Placemark>
         <name>Bethany Global University</name>
-        <styleUrl>#icon-ci-195-nodesc</styleUrl>
+        <styleUrl>#icon-ci-186-nodesc</styleUrl>
         <Point>
           <coordinates>
             -93.3717405,44.7954973,0
@@ -11187,7 +10717,7 @@
       </Placemark>
       <Placemark>
         <name>Crossroads College</name>
-        <styleUrl>#icon-ci-196-nodesc</styleUrl>
+        <styleUrl>#icon-ci-187-nodesc</styleUrl>
         <Point>
           <coordinates>
             -92.4763843,43.9970509,0
@@ -11196,7 +10726,7 @@
       </Placemark>
       <Placemark>
         <name>Minneapolis College of Art and Design</name>
-        <styleUrl>#icon-ci-197-nodesc</styleUrl>
+        <styleUrl>#icon-ci-188-nodesc</styleUrl>
         <Point>
           <coordinates>
             -93.2746532,44.956828,0
@@ -11205,7 +10735,7 @@
       </Placemark>
       <Placemark>
         <name>Southeastern Baptist College</name>
-        <styleUrl>#icon-ci-198-nodesc</styleUrl>
+        <styleUrl>#icon-ci-189-nodesc</styleUrl>
         <Point>
           <coordinates>
             -89.1494751,31.7484043,0
@@ -11214,7 +10744,7 @@
       </Placemark>
       <Placemark>
         <name>Concordia Seminary</name>
-        <styleUrl>#icon-ci-199-nodesc</styleUrl>
+        <styleUrl>#icon-ci-190-nodesc</styleUrl>
         <Point>
           <coordinates>
             -90.312204,38.638047,0
@@ -11223,7 +10753,7 @@
       </Placemark>
       <Placemark>
         <name>Logan University</name>
-        <styleUrl>#icon-ci-200-nodesc</styleUrl>
+        <styleUrl>#icon-ci-191-nodesc</styleUrl>
         <Point>
           <coordinates>
             -90.5417841,38.6316701,0
@@ -11232,7 +10762,7 @@
       </Placemark>
       <Placemark>
         <name>Nebraska Methodist College</name>
-        <styleUrl>#icon-ci-201-nodesc</styleUrl>
+        <styleUrl>#icon-ci-192-nodesc</styleUrl>
         <Point>
           <coordinates>
             -96.04837,41.265533,0
@@ -11241,7 +10771,7 @@
       </Placemark>
       <Placemark>
         <name>Union College</name>
-        <styleUrl>#icon-ci-202-nodesc</styleUrl>
+        <styleUrl>#icon-ci-193-nodesc</styleUrl>
         <Point>
           <coordinates>
             -96.6517495,40.7744685,0
@@ -11250,7 +10780,7 @@
       </Placemark>
       <Placemark>
         <name>Pillar College</name>
-        <styleUrl>#icon-ci-203-nodesc</styleUrl>
+        <styleUrl>#icon-ci-194-nodesc</styleUrl>
         <Point>
           <coordinates>
             -74.5540177,40.5407915,0
@@ -11259,7 +10789,7 @@
       </Placemark>
       <Placemark>
         <name>Thomas Edison State University</name>
-        <styleUrl>#icon-ci-204-nodesc</styleUrl>
+        <styleUrl>#icon-ci-195-nodesc</styleUrl>
         <Point>
           <coordinates>
             -74.7685263,40.2206282,0
@@ -11268,7 +10798,7 @@
       </Placemark>
       <Placemark>
         <name>Nevada State College</name>
-        <styleUrl>#icon-ci-205-nodesc</styleUrl>
+        <styleUrl>#icon-ci-196-nodesc</styleUrl>
         <Point>
           <coordinates>
             -114.938382,35.9823762,0
@@ -11276,17 +10806,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sierra Nevada College</name>
-        <styleUrl>#icon-ci-206-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -119.937574,39.244983,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>New Mexico Institute of Mining and Technology</name>
-        <styleUrl>#icon-ci-207-nodesc</styleUrl>
+        <styleUrl>#icon-ci-197-nodesc</styleUrl>
         <Point>
           <coordinates>
             -106.905611,34.065993,0
@@ -11295,7 +10816,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[St. John's College]]></name>
-        <styleUrl>#icon-ci-181-nodesc</styleUrl>
+        <styleUrl>#icon-ci-172-nodesc</styleUrl>
         <Point>
           <coordinates>
             -105.912226,35.666789,0
@@ -11304,7 +10825,7 @@
       </Placemark>
       <Placemark>
         <name>Southwest University of Visual Arts</name>
-        <styleUrl>#icon-ci-131-nodesc</styleUrl>
+        <styleUrl>#icon-ci-125-nodesc</styleUrl>
         <Point>
           <coordinates>
             -106.589153,35.088764,0
@@ -11313,7 +10834,7 @@
       </Placemark>
       <Placemark>
         <name>Barnard College, Columbia University</name>
-        <styleUrl>#icon-ci-208-nodesc</styleUrl>
+        <styleUrl>#icon-ci-198-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.9639632,40.8090974,0
@@ -11322,7 +10843,7 @@
       </Placemark>
       <Placemark>
         <name>Briarcliffe College</name>
-        <styleUrl>#icon-ci-209-nodesc</styleUrl>
+        <styleUrl>#icon-ci-199-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.4904563,40.7593739,0
@@ -11331,7 +10852,7 @@
       </Placemark>
       <Placemark>
         <name>New York City College of Technology</name>
-        <styleUrl>#icon-ci-210-nodesc</styleUrl>
+        <styleUrl>#icon-ci-200-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.9874589,40.6955339,0
@@ -11340,7 +10861,7 @@
       </Placemark>
       <Placemark>
         <name>The Cooper Union</name>
-        <styleUrl>#icon-ci-211-nodesc</styleUrl>
+        <styleUrl>#icon-ci-201-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.9916086,40.7280822,0
@@ -11349,7 +10870,7 @@
       </Placemark>
       <Placemark>
         <name>Dowling College</name>
-        <styleUrl>#icon-ci-212-nodesc</styleUrl>
+        <styleUrl>#icon-ci-202-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.1481218,40.7422255,0
@@ -11358,7 +10879,7 @@
       </Placemark>
       <Placemark>
         <name>Empire State College</name>
-        <styleUrl>#icon-ci-213-nodesc</styleUrl>
+        <styleUrl>#icon-ci-203-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.8054763,43.0778905,0
@@ -11367,7 +10888,7 @@
       </Placemark>
       <Placemark>
         <name>Marymount Manhattan College</name>
-        <styleUrl>#icon-ci-214-nodesc</styleUrl>
+        <styleUrl>#icon-ci-204-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.9597198,40.7687419,0
@@ -11376,7 +10897,7 @@
       </Placemark>
       <Placemark>
         <name>Metropolitan College of New York</name>
-        <styleUrl>#icon-ci-215-nodesc</styleUrl>
+        <styleUrl>#icon-ci-205-nodesc</styleUrl>
         <Point>
           <coordinates>
             -74.0149514,40.7087232,0
@@ -11385,7 +10906,7 @@
       </Placemark>
       <Placemark>
         <name>The New School</name>
-        <styleUrl>#icon-ci-216-nodesc</styleUrl>
+        <styleUrl>#icon-ci-206-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.9971383,40.735501,0
@@ -11394,7 +10915,7 @@
       </Placemark>
       <Placemark>
         <name>Trocaire College</name>
-        <styleUrl>#icon-ci-217-nodesc</styleUrl>
+        <styleUrl>#icon-ci-207-nodesc</styleUrl>
         <Point>
           <coordinates>
             -78.8125247,42.8468361,0
@@ -11403,7 +10924,7 @@
       </Placemark>
       <Placemark>
         <name>Touro College</name>
-        <styleUrl>#icon-ci-218-nodesc</styleUrl>
+        <styleUrl>#icon-ci-208-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.9906533,40.7422475,0
@@ -11412,7 +10933,7 @@
       </Placemark>
       <Placemark>
         <name>Barber Scotia College</name>
-        <styleUrl>#icon-ci-219-nodesc</styleUrl>
+        <styleUrl>#icon-ci-209-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.585797,35.406677,0
@@ -11421,7 +10942,7 @@
       </Placemark>
       <Placemark>
         <name>Bennett College</name>
-        <styleUrl>#icon-ci-220-nodesc</styleUrl>
+        <styleUrl>#icon-ci-210-nodesc</styleUrl>
         <Point>
           <coordinates>
             -79.779216,36.067872,0
@@ -11430,7 +10951,7 @@
       </Placemark>
       <Placemark>
         <name>Southeastern Free Will Baptist College</name>
-        <styleUrl>#icon-ci-221-nodesc</styleUrl>
+        <styleUrl>#icon-ci-211-nodesc</styleUrl>
         <Point>
           <coordinates>
             -78.4172359,35.8007141,0
@@ -11439,7 +10960,7 @@
       </Placemark>
       <Placemark>
         <name>University of North Carolina School of the Arts</name>
-        <styleUrl>#icon-ci-222-nodesc</styleUrl>
+        <styleUrl>#icon-ci-212-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.2370022,36.0762501,0
@@ -11448,7 +10969,7 @@
       </Placemark>
       <Placemark>
         <name>Sitting Bull College</name>
-        <styleUrl>#icon-ci-223-nodesc</styleUrl>
+        <styleUrl>#icon-ci-213-nodesc</styleUrl>
         <Point>
           <coordinates>
             -100.6747776,46.0854433,0
@@ -11457,7 +10978,7 @@
       </Placemark>
       <Placemark>
         <name>Antioch College</name>
-        <styleUrl>#icon-ci-224-nodesc</styleUrl>
+        <styleUrl>#icon-ci-214-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.8877186,39.7993346,0
@@ -11466,7 +10987,7 @@
       </Placemark>
       <Placemark>
         <name>Gutenberg College</name>
-        <styleUrl>#icon-ci-225-nodesc</styleUrl>
+        <styleUrl>#icon-ci-215-nodesc</styleUrl>
         <Point>
           <coordinates>
             -123.074284,44.039154,0
@@ -11475,7 +10996,7 @@
       </Placemark>
       <Placemark>
         <name>Marylhurst University</name>
-        <styleUrl>#icon-ci-226-nodesc</styleUrl>
+        <styleUrl>#icon-ci-216-nodesc</styleUrl>
         <Point>
           <coordinates>
             -122.6472524,45.3985866,0
@@ -11484,7 +11005,7 @@
       </Placemark>
       <Placemark>
         <name>Reed College</name>
-        <styleUrl>#icon-ci-227-nodesc</styleUrl>
+        <styleUrl>#icon-ci-217-nodesc</styleUrl>
         <Point>
           <coordinates>
             -122.6303724,45.4809782,0
@@ -11493,7 +11014,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Harrisburg University of Science & Technology]]></name>
-        <styleUrl>#icon-ci-228-nodesc</styleUrl>
+        <styleUrl>#icon-ci-218-nodesc</styleUrl>
         <Point>
           <coordinates>
             -76.8803384,40.2619419,0
@@ -11502,7 +11023,7 @@
       </Placemark>
       <Placemark>
         <name>Penn State Shenango</name>
-        <styleUrl>#icon-ci-229-nodesc</styleUrl>
+        <styleUrl>#icon-ci-219-nodesc</styleUrl>
         <Point>
           <coordinates>
             -80.5089586,41.2347939,0
@@ -11511,7 +11032,7 @@
       </Placemark>
       <Placemark>
         <name>New England Institute of Technology Post Road Campus</name>
-        <styleUrl>#icon-ci-230-nodesc</styleUrl>
+        <styleUrl>#icon-ci-220-nodesc</styleUrl>
         <Point>
           <coordinates>
             -71.4448991,41.7152184,0
@@ -11520,7 +11041,7 @@
       </Placemark>
       <Placemark>
         <name>Knoxville College</name>
-        <styleUrl>#icon-ci-231-nodesc</styleUrl>
+        <styleUrl>#icon-ci-221-nodesc</styleUrl>
         <Point>
           <coordinates>
             -83.943506,35.970326,0
@@ -11529,7 +11050,7 @@
       </Placemark>
       <Placemark>
         <name>Amberton University</name>
-        <styleUrl>#icon-ci-232-nodesc</styleUrl>
+        <styleUrl>#icon-ci-222-nodesc</styleUrl>
         <Point>
           <coordinates>
             -96.6529249,32.859847,0
@@ -11538,7 +11059,7 @@
       </Placemark>
       <Placemark>
         <name>University of Houston-Clear Lake</name>
-        <styleUrl>#icon-ci-233-nodesc</styleUrl>
+        <styleUrl>#icon-ci-223-nodesc</styleUrl>
         <Point>
           <coordinates>
             -95.0990951,29.5806694,0
@@ -11547,7 +11068,7 @@
       </Placemark>
       <Placemark>
         <name>University of Houston-Downtown</name>
-        <styleUrl>#icon-ci-234-nodesc</styleUrl>
+        <styleUrl>#icon-ci-224-nodesc</styleUrl>
         <Point>
           <coordinates>
             -95.359598,29.766005,0
@@ -11556,7 +11077,7 @@
       </Placemark>
       <Placemark>
         <name>UNT Dallas</name>
-        <styleUrl>#icon-ci-235-nodesc</styleUrl>
+        <styleUrl>#icon-ci-225-nodesc</styleUrl>
         <Point>
           <coordinates>
             -96.8041131,32.6585521,0
@@ -11565,7 +11086,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Texas A&M University-Central Texas]]></name>
-        <styleUrl>#icon-ci-236-nodesc</styleUrl>
+        <styleUrl>#icon-ci-226-nodesc</styleUrl>
         <Point>
           <coordinates>
             -97.7738274,31.0528319,0
@@ -11574,7 +11095,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Texas A&M University-San Antonio]]></name>
-        <styleUrl>#icon-ci-237-nodesc</styleUrl>
+        <styleUrl>#icon-ci-227-nodesc</styleUrl>
         <Point>
           <coordinates>
             -98.5246561,29.3037562,0
@@ -11583,7 +11104,7 @@
       </Placemark>
       <Placemark>
         <name>Saint Pauls College</name>
-        <styleUrl>#icon-ci-238-nodesc</styleUrl>
+        <styleUrl>#icon-ci-228-nodesc</styleUrl>
         <Point>
           <coordinates>
             -77.850307,36.761779,0
@@ -11592,7 +11113,7 @@
       </Placemark>
       <Placemark>
         <name>Virginia Intermont College</name>
-        <styleUrl>#icon-ci-239-nodesc</styleUrl>
+        <styleUrl>#icon-ci-229-nodesc</styleUrl>
         <Point>
           <coordinates>
             -82.1763338,36.6048746,0
@@ -11601,7 +11122,7 @@
       </Placemark>
       <Placemark>
         <name>Bennington College</name>
-        <styleUrl>#icon-ci-240-nodesc</styleUrl>
+        <styleUrl>#icon-ci-230-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.2359361,42.9203078,0
@@ -11610,7 +11131,7 @@
       </Placemark>
       <Placemark>
         <name>Burlington College</name>
-        <styleUrl>#icon-ci-241-nodesc</styleUrl>
+        <styleUrl>#icon-ci-231-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.228266,44.4911559,0
@@ -11619,7 +11140,7 @@
       </Placemark>
       <Placemark>
         <name>Champlain College</name>
-        <styleUrl>#icon-ci-242-nodesc</styleUrl>
+        <styleUrl>#icon-ci-232-nodesc</styleUrl>
         <Point>
           <coordinates>
             -73.2041352,44.4731165,0
@@ -11628,7 +11149,7 @@
       </Placemark>
       <Placemark>
         <name>Goddard College</name>
-        <styleUrl>#icon-ci-243-nodesc</styleUrl>
+        <styleUrl>#icon-ci-233-nodesc</styleUrl>
         <Point>
           <coordinates>
             -72.4380985,44.2789722,0
@@ -11637,7 +11158,7 @@
       </Placemark>
       <Placemark>
         <name>Marlboro College</name>
-        <styleUrl>#icon-ci-244-nodesc</styleUrl>
+        <styleUrl>#icon-ci-234-nodesc</styleUrl>
         <Point>
           <coordinates>
             -72.7347545,42.8390545,0
@@ -11646,7 +11167,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Northland Camp & Conference Center]]></name>
-        <styleUrl>#icon-ci-245-nodesc</styleUrl>
+        <styleUrl>#icon-ci-235-nodesc</styleUrl>
         <Point>
           <coordinates>
             -88.0926971,45.5808269,0
@@ -11655,7 +11176,7 @@
       </Placemark>
       <Placemark>
         <name>West Virginia University at Parkersburg</name>
-        <styleUrl>#icon-ci-246-nodesc</styleUrl>
+        <styleUrl>#icon-ci-236-nodesc</styleUrl>
         <Point>
           <coordinates>
             -81.505728,39.216755,0
@@ -11664,7 +11185,7 @@
       </Placemark>
       <Placemark>
         <name>Wyoming Catholic College</name>
-        <styleUrl>#icon-ci-247-nodesc</styleUrl>
+        <styleUrl>#icon-ci-237-nodesc</styleUrl>
         <Point>
           <coordinates>
             -108.7314715,42.8334559,0
